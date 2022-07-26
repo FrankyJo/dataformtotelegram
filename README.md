@@ -1,4 +1,4 @@
-# senedataformtotelegram
+# Ыend form data to telegram
 
 This script for sending data form to telegram
 
